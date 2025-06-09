@@ -5,11 +5,10 @@
 </p>
 
 ---
+<h3 align="center">🐾Mascotinha Dev🐾</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/gato.gif" width="140" alt="Mascote gatinho" /> </p> <p align="center"> <em>Essa é a <strong>MiauDev</strong> que me acompanha nas jornadas de código! 💻🐈</em> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=100&section=foote
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/gato.gif" width="120" alt="Mascote gatinho" />
-</p>
-
+---
 
 ## 📈 Minhas estatísticas no GitHub
 
@@ -27,6 +26,22 @@
 </p>
 
 ---
+
+<p align="center">
+  <svg width="300" height="80" viewBox="0 0 300 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 60 Q60 10 110 60 T210 60" stroke="#4CAF50" stroke-width="3" fill="none" stroke-dasharray="300" stroke-dashoffset="300">
+      <animate attributeName="stroke-dashoffset" from="300" to="0" dur="3s" repeatCount="indefinite" />
+    </path>
+    <text x="50" y="75" font-family="Brush Script MT, cursive" font-size="30" fill="#4CAF50">Layla Agnes</text>
+  </svg>
+</p>
+
+<p align="center" style="font-size:18px; font-weight:bold; color:#4CAF50;">
+  🚀 Atualmente <span style="color:#FF9800;">disponível para freelas e projetos</span>!
+</p>
+
+---
+
 
 ## 🕰️ Linha do Tempo
 
@@ -87,7 +102,16 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
+
+  <p align="center" style="margin-top:40px;">
+  <a href="mailto:laylaagnes001@gmail.com" style="background-color:#4CAF50; color:white; padding: 12px 24px; border-radius: 25px; text-decoration:none; font-weight:bold; font-size:16px;">
+    💼 Me contrata!
+  </a>
 </p>
+</p>
+
+
+
 
 ---
 
