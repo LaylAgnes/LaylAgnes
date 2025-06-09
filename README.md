@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/mascote-gatinho.gif" width="120" alt="Mascote gatinho" />
+  <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/gato.gif" width="120" alt="Mascote gatinho" />
 </p>
 
 
