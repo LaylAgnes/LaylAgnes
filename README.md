@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Olá, eu sou a Layla Agnes 👩‍💻</h1>
+<h1 align="center">Olá, eu sou a Layla Agnes</h1>
 
 <p align="center">
   Desenvolvedora apaixonada por tecnologia, criatividade e interfaces bem feitas 💡🎨  
