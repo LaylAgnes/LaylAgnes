@@ -48,7 +48,7 @@
 - **2025** — Início do curso de Análise e Desenvolvimento de Sistemas  
 - **2025** — Conquista dos primeiros projetos pessoais
 - **2027** — Formatura em ADS
-- **2027** — Inicio da Pós em Fulstack
+- **2027** — Inicio da Pós em Engenharia de softaware
   
 ---
 
@@ -77,16 +77,14 @@
 
 | Projeto                  | Descrição                                  | Link                                                                                 |
 |-------------------------|--------------------------------------------|--------------------------------------------------------------------------------------|
-| LA Tech                 | Site de portfólios com desafios e projetos | [GitHub](https://github.com/LaylAgnes/LA.Tech)                                      |
-| Página de apresentação  | Uma página pessoal simples e funcional      | [GitHub](https://github.com/LaylAgnes/Pagina-de-apresenta-o-pessoal)                 |
+| Em desenvolvimento                  | Em desenvolvimento  | Em desenvolvimento                                     |
+| Em desenvolvimento   | Em desenvolvimento       | Em desenvolvimento                  |
 
 ---
 
 ## 🎯 Meus objetivos
-
-- Me tornar uma desenvolvedora Fulstack  
+  
 - Construir projetos que ajudem pessoas  
-- Melhorar minha lógica e design de interfaces  
 - Participar de comunidades de devs e hackathons
 
 ---
