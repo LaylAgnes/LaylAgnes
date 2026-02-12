@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS3"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" width="55" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" alt="Java"/>
+
 </p>
 
 ---
@@ -67,7 +69,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
 </p>
 
@@ -75,10 +76,10 @@
 
 ## 🚀 Projetos em destaque
 
-| Projeto                  | Descrição                                  | Link                                                                                 |
-|-------------------------|--------------------------------------------|--------------------------------------------------------------------------------------|
-| Em desenvolvimento                  | Em desenvolvimento  | Em desenvolvimento                                     |
-| Em desenvolvimento   | Em desenvolvimento       | Em desenvolvimento                  |
+| Projeto                            | Descrição                                                                                                               | Link                                                   | Site
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------------|
+| Geraloto                           | Pagina que gera apostas de todos os jogos da loterias Caixa com diverças funcionalidades incluindo bolão e surpresinha  | https://github.com/LaylAgnes/geraloto                  | https://laylagnes.github.io/geraloto/ |
+| Ysa Oráculos & Espiritualidade     | Landpage mistica focada em conversão de clientes                                                                        | https://github.com/LaylAgnes/ysa                       | https://ysa-oraculos-e-espiritualidade.vercel.app/ |
 
 ---
 
