@@ -76,10 +76,11 @@
 
 ## 🚀 Projetos em destaque
 
-| Projeto                            | Descrição                                                                                                               | Link                                                   | Site
-|------------------------------------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------------|
-| Geraloto                           | Pagina que gera apostas de todos os jogos da loterias Caixa com diverças funcionalidades incluindo bolão e surpresinha  | https://github.com/LaylAgnes/geraloto                  | https://laylagnes.github.io/geraloto/ |
-| Ysa Oráculos & Espiritualidade     | Landpage mistica focada em conversão de clientes                                                                        | https://github.com/LaylAgnes/ysa                       | https://ysa-oraculos-e-espiritualidade.vercel.app/ |
+| Projeto                            | Descrição                                                                                    | Link                                  | Site
+|------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------|
+| Geraloto | Pagina que gera apostas de todos os jogos da loterias Caixa com diverças funcionalidades incluindo bolão e surpresinha | https://github.com/LaylAgnes/geraloto | https://laylagnes.github.io/geraloto/ |
+| Ysa Oráculos & Espiritualidade | Landpage mistica focada em conversão de clientes | https://github.com/LaylAgnes/ysa | https://ysa-oraculos-e-espiritualidade.vercel.app/ |
+| Descomplicando a Descomplica | Landpage feita em Bootstrap focada em ajudar nós estudantes a usar os serviços da faculdade concentrando informações valiosas num unico lugar. | https://github.com/LaylAgnes/descomplicando | https://descomplicando.vercel.app/
 
 ---
 
