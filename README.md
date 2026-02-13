@@ -1,12 +1,14 @@
 <h1 align="center">Olá, me chamo Layla Agnes</h1>
 
 <p align="center">
-  Desenvolvedora apaixonada por tecnologia, criatividade e interfaces bem feitas 💡🎨  
+  Desenvolvedora Front-End focada em experiências digitais elegantes, responsivas e orientadas à conversão.
+Construindo soluções reais com HTML, CSS, JavaScript e foco em usabilidade.  
 </p>
 
 ---
 <h3 align="center">🐾Mascotinha Dev🐾</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/gato.gif" width="140" alt="Mascote gatinho" /> </p> <p align="center"> <em>Essa é a <strong>MiauDev</strong> que me acompanha nas jornadas de código! 💻🐈</em> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=100&section=foote
+<p align="center"> <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/gato.gif" width="140" alt="Mascote gatinho" /> </p> <p align="center"> <em>Essa é a <strong>MiauDev</strong> que me acompanha nas jornadas de código! 💻🐈</em> <p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=100&section=footer" /></p>
+
 
 ---
 
@@ -43,12 +45,9 @@
 ---
 
 
-## 🕰️ Linha do Tempo
+## 🎓 Formação
 
-- **2025** — Início do curso de Análise e Desenvolvimento de Sistemas  
-- **2025** — Conquista dos primeiros projetos pessoais
-- **2027** — Formatura em ADS
-- **2027** — Inicio da Pós em Engenharia de softaware
+Análise e Desenvolvimento de Sistemas — 2025–2027
   
 ---
 
@@ -64,7 +63,7 @@
 
 ---
 
-## 🌐 Tecnologias que irei aprender
+## 🚀 Próximos Passos Técnicos
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
@@ -78,9 +77,25 @@
 
 | Projeto                            | Descrição                                                                                    | Link                                  | Site
 |------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------|
-| Geraloto | Pagina que gera apostas de todos os jogos da loterias Caixa com diverças funcionalidades incluindo bolão e surpresinha | https://github.com/LaylAgnes/geraloto | https://laylagnes.github.io/geraloto/ |
-| Ysa Oráculos & Espiritualidade | Landpage mistica focada em conversão de clientes | https://github.com/LaylAgnes/ysa | https://ysa-oraculos-e-espiritualidade.vercel.app/ |
-| Descomplicando a Descomplica | Landpage feita em Bootstrap focada em ajudar nós estudantes a usar os serviços da faculdade concentrando informações valiosas num unico lugar. | https://github.com/LaylAgnes/descomplicando | https://descomplicando.vercel.app/
+| Geraloto | Página que gera apostas de todos os jogos da loterias Caixa, com diversas funcionalidades, incluindo bolão e surpresinha. | https://github.com/LaylAgnes/geraloto | https://laylagnes.github.io/geraloto/ |
+| Ysa Oráculos & Espiritualidade | Landpage mistica focada em conversão de clientes. | https://github.com/LaylAgnes/ysa | https://ysa-oraculos-e-espiritualidade.vercel.app/ |
+| Descomplicando a Descomplica | Landpage feita em Bootstrap focada em ajudar os estudantes a usar os serviços da faculdade concentrando informações valiosas num único lugar. | https://github.com/LaylAgnes/descomplicando | https://descomplicando.vercel.app/
+
+---
+
+## 💼 O que eu entrego
+
+- Landing pages de alta conversão
+
+- Sites institucionais responsivos
+
+- Interfaces modernas com Bootstrap
+
+- Deploy em Vercel / GitHub Pages
+
+- SEO básico estruturado
+
+- UI focada em experiência do usuário
 
 ---
 
