@@ -2,13 +2,20 @@
 
 <p align="center">
   Desenvolvedora Front-End focada em experiências digitais elegantes, responsivas e orientadas à conversão.
-Construindo soluções reais com HTML, CSS, JavaScript e foco em usabilidade.  
+  Transformo ideias em interfaces modernas, funcionais e prontas para produção. 
 </p>
 
 ---
-<h3 align="center">🐾Mascotinha Dev🐾</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/gato.gif" width="140" alt="Mascote gatinho" /> </p> <p align="center"> <em>Essa é a <strong>MiauDev</strong> que me acompanha nas jornadas de código! 💻🐈</em> <p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=100&section=footer" /></p>
 
+<h3 align="center">🐾Mascotinha Dev🐾</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/LaylAgnes/LaylAgnes/main/gato.gif" width="140" alt="Mascote gatinho" /> </p> 
+<p align="center">
+  <em>Essa é a <strong>MiauDev</strong> que me acompanha nas jornadas de código! 💻🐈</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+</p>
 
 ---
 
@@ -44,10 +51,20 @@ Construindo soluções reais com HTML, CSS, JavaScript e foco em usabilidade.
 
 ---
 
+## ✨ Sobre mim
+
+Estou construindo minha carreira com foco em consistência, qualidade e evolução contínua. 
+Meu objetivo é me tornar uma desenvolvedora capaz de unir técnica, visão de produto e impacto real.
+
+---
 
 ## 🎓 Formação
 
-Análise e Desenvolvimento de Sistemas — 2025–2027
+Análise e Desenvolvimento de Sistemas  
+2025 – 2027  
+
+Foco em desenvolvimento web, arquitetura de software e boas práticas de engenharia.
+
   
 ---
 
@@ -83,6 +100,31 @@ Análise e Desenvolvimento de Sistemas — 2025–2027
 
 ---
 
+### 🔎 Case Breakdown — Ysa Oráculos & Espiritualidade
+
+**Problema:**  
+Criar uma landing page para uma profissional autônoma que precisava transmitir autoridade, espiritualidade e confiança — sem poluir visualmente.
+
+**Desafios:**
+- Equilibrar estética mística com elegância
+- Manter conversão clara (CTA forte)
+- Inserir elementos solicitados pelo cliente sem quebrar a coesão visual
+
+**Solução:**
+- Identidade visual baseada em tons roxo profundo e iluminação sutil
+- Estrutura estratégica focada em jornada de conversão
+- Ajustes finos em tipografia, hierarquia e microinterações
+- Responsividade refinada até 600px
+
+**Resultado:**
+- Landing page profissional com identidade visual consistente
+- Estrutura pensada para conversão (CTA estratégico)
+- Projeto completo do design ao deploy (Vercel)
+- Experiência refinada para dispositivos móveis
+
+
+---
+
 ## 💼 O que eu entrego
 
 - Landing pages de alta conversão
@@ -99,10 +141,27 @@ Análise e Desenvolvimento de Sistemas — 2025–2027
 
 ---
 
+## 🧠 Mentalidade de Trabalho
+
+- Código limpo e organizado
+
+- Foco em performance
+
+- Responsividade real (não só adaptar layout)
+
+- Atenção a detalhes visuais
+
+- Experiência do usuário como prioridade
+
+---
+
 ## 🎯 Meus objetivos
   
-- Construir projetos que ajudem pessoas  
-- Participar de comunidades de devs e hackathons
+- Construir soluções digitais com impacto real
+
+- Evoluir para atuar em projetos de maior escala
+
+- Contribuir com comunidades de tecnologia
 
 ---
 
@@ -112,21 +171,20 @@ Análise e Desenvolvimento de Sistemas — 2025–2027
   <a href="https://linkedin.com/in/laylaagnes" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
+  
   &nbsp;&nbsp;
+  
   <a href="mailto:laylaagnes001@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+</p>
 
-  <p align="center" style="margin-top:40px;">
-  <a href="mailto:laylaagnes001@gmail.com" style="background-color:#4CAF50; color:white; padding: 12px 24px; border-radius: 25px; text-decoration:none; font-weight:bold; font-size:16px;">
-    💼 Me contrata!
+<p align="center" style="margin-top:40px;">
+  <a href="mailto:laylaagnes001@gmail.com" 
+     style="background-color:#4CAF50; color:white; padding: 12px 24px; border-radius: 25px; text-decoration:none; font-weight:bold; font-size:16px;">
+    💼 Vamos trabalhar juntos?
   </a>
 </p>
-</p>
-
-
-
 
 ---
 
