@@ -22,11 +22,6 @@
 ## 📈 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaylAgnes&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylAgnes&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaylAgnes&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -170,12 +165,6 @@ Criar uma landing page para uma profissional autônoma que precisava transmitir 
 <p align="center">
   <a href="https://linkedin.com/in/laylaagnes" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
-  </a>
-  
-  &nbsp;&nbsp;
-  
-  <a href="mailto:laylaagnes001@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
   </a>
 </p>
 
